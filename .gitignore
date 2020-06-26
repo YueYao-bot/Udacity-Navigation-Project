@@ -3,3 +3,6 @@
 *.idea
 *.pyc
 *.log
+echo *ipynb_checkpoints
+echo *.ipynb_checkpoints
+echo *.ipynb_checkpoints
