@@ -11,7 +11,7 @@ Hyperparameters are:
 - Target network updates after 4 times updates of local network.
 
 ## Plot of Rewards
-<img src="https://github.com/YueYao-bot/Udacity-Navigation-Project/blob/master/Scores_over_Episodes.png" width="40" height="40" />
+<img src="https://github.com/YueYao-bot/Udacity-Navigation-Project/blob/master/Scores_over_Episodes.png"/>
 
 Problem solved at 361 Episodes.
 

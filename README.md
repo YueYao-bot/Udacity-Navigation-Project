@@ -2,7 +2,7 @@
 
 
 ## Project Details
-
+<img src="https://github.com/YueYao-bot/Udacity-Navigation-Project/blob/master/Navigation.gif"/>
 
 For this project, an agent navigates (and collect bananas!) in a large, square world.
 
